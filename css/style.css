@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.tag {
+  background-color: #F4F4F4;
+  text-decoration: underline; }
+  .tag:hover {
+    text-decoration: none; }
+
+header .header__logo {
+  width: 25px;
+  margin: 0 25px 0 25px; }
+
+.mainIndex .btn a {
+  text-decoration: none; }
+
+.mainHtml .dropdown {
+  margin: 25px 25px 25px 0; }
+
+.mainHtml .mainContent {
+  padding: 25px 50px 25px 25px; }
+  .mainHtml .mainContent h2 {
+    padding: 25px 0; }
+
+.mainContact .container {
+  padding: 50px; }
